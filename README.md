@@ -1,3 +1,3 @@
-# hello-world-html
+# paragrafos em HTML
 
-Meu primerio código html, fazendo o curso do Guanabara, Gus. My names gus.
+Estudos sobre parágrafos e simbolos/emoji em HTML
